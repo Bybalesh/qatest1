@@ -12,7 +12,6 @@ let rec factorial n =
 (* Вызов функции и вывод результата *)
 let () =
   let result = factorial 5 in
-  Printf.printf "Factorial of 5 is %d\n" result
 // https://ocaml.org/manual/lex.html
 
 Prism.languages.ocaml = {
